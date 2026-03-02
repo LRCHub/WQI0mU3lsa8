@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "クレイ feat. 七滝今（feat. 七滝今）",
+  "base_artist": "Lanndo",
+  "createdAt": "2026-03-02T21:51:36.114656Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クレイ feat. 七滝今",
+      "artist": "Lanndo feat. 七滝今",
+      "has_synced": true,
+      "path": "select/01_クレイ_feat._七滝今_Lanndo_feat._七滝今.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クレイ",
+      "artist": "Lanndo feat. 七滝今",
+      "has_synced": true,
+      "path": "select/02_クレイ_Lanndo_feat._七滝今.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "クレイ feat. 七滝今",
+      "artist": "Lanndo",
+      "has_synced": true,
+      "path": "select/03_クレイ_feat._七滝今_Lanndo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "クレイ",
+      "artist": "Lanndo",
+      "has_synced": true,
+      "path": "select/04_クレイ_Lanndo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クレイ feat. 七滝今",
+      "artist": "Lanndo, 七滝今",
+      "has_synced": false,
+      "path": "select/pl_01_クレイ_feat._七滝今_Lanndo,_七滝今.txt"
+    }
+  ]
+}
